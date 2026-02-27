@@ -2,6 +2,10 @@
 # 💫 Hi 👋, I'm Alif
 **Passionate about Cyber Security || Student || Alif from Bangladesh**
 
+I am a recent high school graduate with a profound interest in technology and a dedication to solving complex problems.
+
+My journey through competitive programming has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to study a  BSc in Cybersecurity.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jamil.ahamad.alif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jamil-ahamad-alif/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahamodalif99@gmail.com) 
 
