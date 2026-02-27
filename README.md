@@ -1,6 +1,6 @@
 
 # 💫 Hi 👋, I'm Alif
-**A passionate Ayber Security Engineer || Student || Alif from Bangladesh**
+**A passionate Cyber Security Engineer || Student || Alif from Bangladesh**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/jamil.ahamad.alif) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jamil-ahamad-alif/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahamodalif99@gmail.com) 
