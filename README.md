@@ -1,5 +1,4 @@
-
-# 💫 Hi 👋, I'm Alif
+# 💫 Hi 👋, I'm ALIF
 **Passionate about Cyber Security || Student || Alif from Bangladesh**
 
 I am a recent high school graduate with a profound interest in technology and a dedication to solving complex problems.
